@@ -86,9 +86,10 @@ Each particle represents a candidate PID parameter set and moves through the sea
 
 ### Step Response Comparison
 
-> Insert simulation result graph here.
+### Result graph:
 
-![Results Graph](images/results.png)
+<img width="1169" height="819" alt="image" src="https://github.com/user-attachments/assets/3418a18e-38ca-4a50-bdfe-61770a5f32c3" />
+
 
 The graph should compare:
 
